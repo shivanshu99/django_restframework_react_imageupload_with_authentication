@@ -1,4 +1,4 @@
-1. Running the project .
+# Running the project .
 2. Open a command line window and go to the project's directory.
 3. cd leadmanager
 4. pip install -r requirements.txt. 
